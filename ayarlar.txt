@@ -1,0 +1,12 @@
+access_token=EAAB...SAMPLE_ACCESS_TOKEN
+ig_user_id=1784...SAMPLE_USER_ID
+api_version=v25.0
+poll_interval=5
+timeout=600
+
+# Açıklamalar:
+# - access_token: Meta/Instagram Graph API üzerinden alınmış token
+# - ig_user_id: Instagram İşletme/Hazır Hesabının ID'si
+# - api_version: Graph API Versiyonu (örn: v25.0)
+# - poll_interval: Video işlem durumunu sorgulama aralığı (saniye)
+# - timeout: Video işleminde toplam bekleme süresi (saniye)
